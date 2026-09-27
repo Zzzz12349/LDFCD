@@ -63,16 +63,6 @@ The dataset covers **59 geological disaster events** (landslides and debris flow
 
 Representative locations include Beichuan (北川), Caopo Township (草坡乡), Jiuzhaigou (九寨沟), and the Jinsha River (金沙江) region.
 
-
-
-📬 Contact
-If you encounter any issues with the dataset or the GEE tool, please
-contact us:
-
-Zhi Li — m15732638213@163.com
-Bug reports and suggestions are also welcome via
-GitHub Issues.
-
 📜 License
 This dataset is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt the material for any purpose, provided appropriate credit is given.
 
