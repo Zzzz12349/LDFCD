@@ -67,6 +67,6 @@ Representative locations include Beichuan (北川), Caopo Township (草坡乡), 
 This dataset is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt the material for any purpose, provided appropriate credit is given.
 
 🙏 Acknowledgements
-Post-disaster high-resolution imagery is obtained from ref38—please replace with the propercitation.
+Post-disaster high-resolution imagery is obtained from ref61—please replace with the propercitation.
 
 
